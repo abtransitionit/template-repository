@@ -45,5 +45,4 @@ Track version updates and changes:
 - **📄 Full Changelog**: See [CHANGELOG.md](CHANGELOG.md) for detailed version history.  
 
 ---
-----
 
