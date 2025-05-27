@@ -19,9 +19,6 @@ This project template includes the following components:
 
 
 
-
-Here’s a polished and professional version of your sections with improved clarity and structure:
-
 ---
 
 # Getting Started  
