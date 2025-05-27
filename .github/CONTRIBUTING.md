@@ -38,7 +38,7 @@ Thank you for considering contributing! Here are a few guidelines to follow:
 3. **Changelog**: Manually update [`CHANGELOG.md`](CHANGELOG.md) pre-release  
 
 
-### Step 2: Create Version Tag
+### Step 1: Create Version Tag
 Run these commands:
 ```bash
 # commit changes to CHANGELOG.md
@@ -52,7 +52,7 @@ git tag -a v1.0.0 -m "Release v1.0.0"
 git push origin v1.0.0
 ```
 
-### Step 3: Automatic Release
+### Step 2: Automatic Release
 Let GitHub Actions Do the Rest. The workflow (using GitHub Actions) will automatically:  
  ✓ Build the project  
  ✓ Create a GitHub Release  
@@ -61,7 +61,7 @@ Let GitHub Actions Do the Rest. The workflow (using GitHub Actions) will automat
 
 *(Find your release under "Releases" in your repo sidebar)*
 
-### Step 1: Update Changes
+### Step 3: Update Changes
 Edit `CHANGELOG.md` following this format:
 ```markdown
 ## [v1.0.0] - 2025-05-20
