@@ -35,7 +35,7 @@ To use this template, follow GitHub’s official guide:  [Creating a repository 
 
 We welcome contributions! Before participating, please review:  
 - **[Code of Conduct](.github/CODE_OF_CONDUCT.md)** – Our community guidelines.  
-- **[Contributing Guide](CONTRIBUTING.md)** – How to submit issues, PRs, and more.  
+- **[Contributing Guide](.github/CONTRIBUTING.md)** – How to submit issues, PRs, and more.  
 
 
 ----
