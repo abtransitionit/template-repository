@@ -29,7 +29,7 @@ Thank you for considering contributing! Here are a few guidelines to follow:
 ---
 
 ## Create a Release
-- This project adopts a release workflow Adapted from [RootlessKit](https://github.com/rootless-containers/rootlesskit), implemented via [GitHub Actions](https://github.com/rootless-containers/rootlesskit/actions/runs/14899716761/workflow). 
+- This project adopts a release workflow adapted from [RootlessKit](https://github.com/rootless-containers/rootlesskit), implemented via [GitHub Actions](https://github.com/rootless-containers/rootlesskit/actions/runs/14899716761/workflow). 
 - Source Implementation :`release.yml` Workflow from [RootlessKit](https://github.com/rootless-containers/rootlesskit/blob/master/.github/workflows/release.yml).
 
 **Key Steps**:
